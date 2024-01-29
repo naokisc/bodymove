@@ -3,5 +3,4 @@ matplotlib
 numpy
 opencv-python
 mediapipe
-cv2
 sphinx-book-theme
